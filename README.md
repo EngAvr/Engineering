@@ -2,6 +2,7 @@
 
 Инженерные расчёты по прочности.
 
+
 Выполненные проекты:
 
 [frontiermachines.ru](http://frontiermachines.ru/portfolio/)
@@ -15,7 +16,7 @@ AverRmn@gmail.com
 8-985-825-46-75 (Санкт-Петербург)
 
 
-\n
+\r
 
 
 ## Greetings
