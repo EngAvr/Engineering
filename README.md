@@ -9,10 +9,13 @@
 Связаться со мной:
 
 [vk.com/engavr](http://vk.com/engavr)
+
 AverRmn@gmail.com
+
 8-985-825-46-75 (Санкт-Петербург)
 
 
+\n
 
 
 ## Greetings
