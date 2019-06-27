@@ -16,7 +16,7 @@ AverRmn@gmail.com
 8-985-825-46-75 (Санкт-Петербург)
 
 
-\r
+
 
 
 ## Greetings
