@@ -1,6 +1,8 @@
 ## Приветствие
 
-Инженерные расчёты по прочности. Выполненные проекты:
+Инженерные расчёты по прочности.
+
+Выполненные проекты:
 [frontiermachines.ru](http://frontiermachines.ru/portfolio/)
 
 Связаться со мной:
@@ -12,6 +14,7 @@ AverRmn@gmail.com
 ## Greetings
 
 Hello! I am mechanical engineer in aerospace domain.
+
 Check out my projects at:
 [frontiermachines.ru/en](http://frontiermachines.ru/en/projects/)
 
